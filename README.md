@@ -111,7 +111,7 @@ The raw survey data required significant cleaning before it could be visualized.
 1. Download and install **[Power BI Desktop](https://powerbi.microsoft.com/desktop)** — it's free
 2. Clone this repository:
    ```bash
-   git clone https://github.com/abhirupdas99/global-data-professionals-analysis-using-Power-BI.git
+   git clone https://github.com/TishaaC1/data-professionals-analysis.git
    ```
 3. Open `Finale_cleaned_datasheet.pbix` in Power BI Desktop
 4. Interact with the slicers, filters, and visuals to explore the data
