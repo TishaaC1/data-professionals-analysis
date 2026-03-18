@@ -9,12 +9,6 @@
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard Overview](https://github.com/abhirupdas99/global-data-professionals-analysis-using-Power-BI/blob/main/Screenshots/Dashboard%20overview.jpg)
-
----
-
 ## 📌 Project Overview
 
 This end-to-end Power BI project analyzes a global survey conducted among professionals in the data industry. Respondents include Data Analysts, Data Scientists, Data Engineers, Data Architects, and Database Developers from **98 countries**, spanning industries like Tech, Finance, Healthcare, and Education.
@@ -154,10 +148,10 @@ The raw survey data required significant cleaning before it could be visualized.
 
 ## 👤 Author
 
-**Abhirup Das**
-📧 [abhirup99fficial@gmail.com]
-🔗 [LinkedIn](https://www.linkedin.com/in/abhirupdas99/)
-🐙 [GitHub](https://github.com/abhirupdas99)
+**Tishaa Chandwani**
+📧 [tishaachandwani@gmail.com]
+🔗 [LinkedIn](https://www.linkedin.com/in/tishaachandwani/)
+🐙 [GitHub](https://github.com/TishaaC1)
 
 ---
 
